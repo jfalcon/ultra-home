@@ -8,9 +8,6 @@ declare const messages: {
     'overview': 'Overview',
     'title': 'Dashboard'
   },
-  'Deployments': {
-    'byCountry': 'Deployments by Country'
-  },
   'ErrorPage': {
     'home': 'Back to home',
     'title': 'Oops, something went wrong!',
