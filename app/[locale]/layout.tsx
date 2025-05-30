@@ -17,7 +17,7 @@ const font = Roboto({
 export const metadata: Metadata = {
   description: 'Ultra Mobile Home Demo',
   icons: {
-    icon: '/favicon.png', // public path
+    icon: '/favicon.ico', // public path
   },
   title: 'Ultra Mobile Home',
 };
