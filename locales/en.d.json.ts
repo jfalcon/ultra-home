@@ -13,6 +13,9 @@ declare const messages: {
     'title': 'Oops, something went wrong!',
     'try': 'Try again'
   },
+  'Manifest': {
+    'name': 'Ultra Mobile Home'
+  },
   'Header': {
     'title': 'Hello World'
   },
